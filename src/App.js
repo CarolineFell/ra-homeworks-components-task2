@@ -1,5 +1,5 @@
 import React from 'react';
-import './css/main.css';
+import './App.css';
 import ShopItemClass from './components/ShopItemClass';
 
 const item = {
